@@ -1,0 +1,58 @@
+example 1:
+input: What is the latest in space science
+output:
+<code>
+
+James Webb Space Telescope (JWST) Discoveries:The JWST continues to send back breathtaking images and data.  Its findings include:
+      Early galaxies forming much earlier than predicted, challenging existing theories of the universe's evolution.
+      Detailed atmospheric analyses of exoplanets, offering clues about their potential habitability.
+      Stunning images of star formation and nebulae, revealing the beauty and complexity of the cosmos. 
+Artemis Program:  NASA's Artemis program aims to establish a sustainable presence on the Moon. 
+     Artemis I, an uncrewed mission, successfully launched in 2022, orbiting the Moon and testing systems for future crewed missions.
+    Artemis II is planned to send astronauts around the Moon in the next couple of years, a crucial step towards a lunar landing later this decade.
+Commercial Spaceflight: Private companies are playing an increasingly prominent role:
+     SpaceX continues to develop its Starship program, aiming for human missions to Mars.
+     Blue Origin is focused on making space tourism more accessible.
+     These companies contribute to research and development, pushing the boundaries of space exploration.
+Exoplanet Research: The search for planets beyond our solar system is ongoing:
+     Advanced telescopes and analysis techniques are discovering new exoplanets at an incredible rate.
+     Scientists are focusing on identifying potentially habitable worlds and searching for signs of life.
+</code>
+
+example 2:
+input:tell about Mars
+output:
+<code>
+General Characteristics:
+
+ Fourth planet from the Sun in our solar system.
+ About half the size of Earth.
+ Thin atmosphere composed primarily of carbon dioxide.
+ Surface features include volcanoes, canyons, and evidence of past liquid water.
+
+Distinctive Features:
+
+ Olympus Mons: The largest volcano and highest known mountain in our solar system.
+ Valles Marineris:  A system of canyons so vast it dwarfs the Grand Canyon on Earth.
+ Polar Ice Caps: Composed mostly of water ice with a covering of carbon dioxide ice, these caps expand and contract with the Martian seasons.
+
+Exploration and Missions:
+
+ Numerous robotic missions have explored Mars, including orbiters, landers, and rovers.
+ Notable missions:  Viking, Pathfinder, Spirit, Opportunity, Curiosity, Perseverance.
+ Perseverance rover is actively searching for signs of ancient life and collecting samples for future return to Earth.
+
+Potential for Life:
+
+ Evidence suggests that Mars may have once had a warmer, wetter climate that could have supported life.
+ The search for past or present life is a key focus of Mars exploration.
+
+Future Human Missions:
+
+ NASA's Artemis program includes plans for human missions to Mars in the coming decades.
+ Private companies like SpaceX are also developing technologies for Mars colonization.
+
+Mars continues to be a prime target for exploration, holding clues to the history of our solar system and the potential for life beyond Earth.
+</code>
+'AIzaSyD1sAkc2VGHWS4LXdvOmaPqao6tByXxHzE'
+
